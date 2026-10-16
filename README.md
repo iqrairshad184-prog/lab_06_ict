@@ -1,5 +1,5 @@
 Title:
-Odd Integers Sum
+Odd Integers Sum till 100
 
 Purpose:
  The Purpose of this project is to calculate the sum of odd integers up to 200 numbers.
